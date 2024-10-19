@@ -1,0 +1,7 @@
+.todolist li{
+    margin: 5px;
+    /* border: 3px solid rgba(0, 0, 0, 0.354) ; */
+    padding: 1rem;
+    border-radius: 10px;
+    list-style-type: none;
+}

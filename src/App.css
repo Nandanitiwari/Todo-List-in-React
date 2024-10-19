@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #63abcd;
+}
+
+.container {
+    margin-top: 1rem;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    min-height: 500px;
+    min-width: 350px;
+    padding: 1rem;
+    box-shadow: 2px 3px 4px black;
+    background-color: white;
+
+     background-size: 10px 35px; 
+    background-image: repeating-linear-gradient(0deg, rgb(156, 150, 114), rgb(245, 227, 122) 1px, #e5e5f7 1px, #e5e5f2);
+     background-repeat: repeat ; 
+}
+
+.container h1{
+    text-align: center;
+}
